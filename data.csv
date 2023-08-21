@@ -1,0 +1,11 @@
+ID,Name,Faction,Abilities,Transforms Into,Color
+1,Optimus Prime,Autobot,"['Leadership']",Truck,Red
+2,Megatron,Decepticon,['Leadership'],Handgun,Gray
+3,Bumblebee,Autobot,"['Scouting', 'Combat Skills']",Camaro,Yellow
+4,Starscream,Decepticon,"['Flight', 'Energy Blasts']",Fighter Jet,Gray
+5,Grimlock,Autobot,"['Strength', 'Flame Breath']",Dinosaur,Blue
+6,Soundwave,Decepticon,"['Communication', 'Hacking']",Boombox,Blue
+7,Wheeljack,Autobot,"['Invention', 'Repair Skills']",Race Car,Green
+8,Shockwave,Decepticon,"['Science', 'Optics Manipulation']",Space Gun,Purple
+9,Ratchet,Autobot,"['Medicine', 'Field Medic']",Ambulance,White
+10,Skywarp,Decepticon,"['Teleportation', 'Invisibility']",Fighter Jet,Black
