@@ -51,7 +51,7 @@ pip install pandas
 
    ```python
    updated_df = pd.read_csv('data.csv')
-   print(updated_df)
+   print(updated_df) 
    ```
 
    This code reads the modified data and displays it.
