@@ -51,7 +51,7 @@ pip install pandas
 
    ```python
    updated_df = pd.read_csv('data.csv')
-   print(updated_df) 
+   print(updated_df)
    ```
 
    This code reads the modified data and displays it.
@@ -71,4 +71,4 @@ Please ensure that the data in 'data.csv' follows this format for the code to wo
 
 ## License
 
-This code is provided under the MIT License. Feel free to use and modify it as needed for your Transformer data management needs.
+This code is provided under the MIT License. Feel free to use and modify it as needed for your Transformer data management needs..
